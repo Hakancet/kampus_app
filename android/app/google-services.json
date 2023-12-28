@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "427670206407",
+    "project_id": "kampusapp-2d5f0",
+    "storage_bucket": "kampusapp-2d5f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427670206407:android:7c8f7838f26dc390d1cbe2",
+        "android_client_info": {
+          "package_name": "com.hakan.kampusapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhMB9jdclryzR3_YCShOYQsnwMxweCL74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
